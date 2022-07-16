@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+## Welcome to church's blog
 
-You can use the [editor on GitHub](https://github.com/qqzhong/qqzhong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Church ZHONG.
+Now I am a Senior Software Development Engineer(android system) in HMD Global.
+My experience and skills:
+1. 10+ years of experience in Embedded software development;
+2. Proficient c++&java programming skills, includes Rust/Python/Perl/Javascript/Bash/Golang;
+3. Accomplished coder of Qt and Android and Linux driver and application;
+4. Skilled ARM32/AArch64/X86/X64 assembly languages programming and much experience of binary analysis(include core dump/crash/profile);
+5. Have sufficient knowledge of Ethernet and Wi-Fi connectivity, and much experience of TCP/IP programming includes HTTP/DHCP/DNS protocols and IPv4/IPv6;
+6. Master how to make WBS and improve frequent daily work as automatic tasks.
 
-### Markdown
+### Time Management
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Plan/Do/Check/Action
+2. Work Breakdown Structure
+3. Strengths/Weaknesses/Opportunities/Threats
+4. Urgent Important Matrix
 
-```markdown
-Syntax highlighted code block
+### SMART
 
-# Header 1
-## Header 2
-### Header 3
+Specific/Measurable/Attainable/Relevant/Time-bound
+1. 目标必须是具体的（Specific）
+2. 目标必须是可以衡量的（Measurable）
+3. 目标必须是可以达到的（Attainable）
+4. 目标必须和其他目标具有相关性（Relevant）
+5. 目标必须具有明确的截止期限（Time-based）
 
-- Bulleted
-- List
+### POSDCoRB(7)
 
-1. Numbered
-2. List
+Planning/Organization/Staffing/Directing/COordinating/Reporting/Budgeting
+计划、组织、职员、指导、协调、汇报、预算
 
-**Bold** and _Italic_ and `Code` text
+### 6W3H1S
 
-[Link](url) and ![Image](src)
-```
+- 5W
+- 5W1H
+- 5W2H
+- 5W2H1E(Effect)
+- 6W3H1S(Safety)
+- 6W2H
+- How TODO/How much/How much cost
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 9S
 
-### Jekyll Themes
+1. Systems
+2. Style
+3. Skills
+4. Safety values
+5. Structure
+6. Staff commitment
+7. Strategies
+8. Safety policy(goals)
+9. Safety Culture
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qqzhong/qqzhong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 8S
 
-### Support or Contact
+1. Sort
+2. Straighten
+3. Sweep
+4. Sanitary
+5. Sentiment
+6. Safety
+7. Save
+8. Study
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 6S
+
+1. Seiri 整理
+2. Seiton 整顿
+3. Seiso 清扫
+4. Seiketsu 清洁
+5. Shitsuke 素养
+6. Safety 安全
+
+### 6M
+
+Alexander Faickney Osborn
+brainstorming
+6M[改变/增加/减少/替代/颠倒/重组]
